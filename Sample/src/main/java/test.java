@@ -9,6 +9,9 @@ public class test {
 
 {
   getClass()
+    getClass()
+      getClass()
+        getClass()
 }
 
 }
